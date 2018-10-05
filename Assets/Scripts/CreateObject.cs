@@ -9,6 +9,7 @@ public class CreateObject : MonoBehaviour
 {
     public GameObject gameObjectPrefab;
     public Button createBtn;
+    public Button resetBtn;
     //public TMP_InputField positionX;
     //public TMP_InputField positionY;
     //public TMP_InputField positionZ;
@@ -31,6 +32,12 @@ public class CreateObject : MonoBehaviour
         createBtn.onClick.AddListener(delegate 
         {
             StartCoroutine(GetPositionAndRotation());
+        });
+
+        resetBtn.onClick.AddListener(delegate 
+        {
+            gameObjectPrefab.transform.localPosition = new Vector3(0, 0, 0);
+            gameObjectPrefab.transform.localRotation = Quaternion.Euler(0,0,0);
         });
     }
 
