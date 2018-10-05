@@ -1,7 +1,7 @@
 # Unity-AR-Developer-Vuforia
 ------
 ### Description 
-> _Exercise using **vuforia** plugin and **wwwForm** method for read of a web file._
+> _Exercise using **vuforia** plugin and **wwwForm** method to read a web file._
 ### SDK Utilized
 * [**Vuforia**](https://developer.vuforia.com/)
 * [**LitJson**](https://github.com/LitJSON/litjson)
