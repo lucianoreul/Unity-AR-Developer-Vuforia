@@ -12,4 +12,5 @@
 ### Usage Images
 ### Apk Download Test
 ### License
-[litjson]: [unlicense](http://unlicense.org/
+[Unlicense][unlicense] (public domain).
+[litjson]: [unlicense](http://unlicense.org/).
