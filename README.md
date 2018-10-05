@@ -10,7 +10,7 @@
 ### Model 3D
 * [**Barbarian**](https://assetstore.unity.com/packages/3d/characters/humanoids/barbarian-warrior-75519)
 ### Usage Images
-[**Image**](/usage_image.jpeg)
+![**Image**](/usage_image.jpeg)
 ### Image Necessary For Vuforia AR
 ![**Qr Code**](/low_resolution_image.jpg)
 ### Apk Download Test
